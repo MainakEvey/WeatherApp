@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
+![WeatherApp - Google Chrome 3_28_2024 1_46_24 AM](https://github.com/MainakEvey/WeatherApp/assets/128310761/40c9a4e0-8c6f-4545-a4c9-a1e29c52e01e)
 
 
-![Uploading WeatherApp - Google Chrome 3_28_2024 4_27_18 PM.png…]()
+
 
 
 
